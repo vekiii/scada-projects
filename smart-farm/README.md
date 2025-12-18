@@ -69,7 +69,7 @@ Each subsystem operates autonomously while being supervised through a central SC
 ---
 
 ## 📄 Documentation
-- Detailed project report available in `izvestaj.docx`
+- Detailed project report available in `izvestaj.pdf`
 
 ---
 
