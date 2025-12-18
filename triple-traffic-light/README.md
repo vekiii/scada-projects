@@ -49,6 +49,11 @@ Under normal conditions:
 
 ---
 
+## 📄 Documentation
+- Detailed project report available in `report.pdf`
+
+---
+
 ## 📄 Notes
 This project was developed as part of academic coursework and focuses on safety-critical control logic implemented using SCADA principles.
 
